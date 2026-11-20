@@ -1,6 +1,6 @@
 # VATT Wallet — Descargas oficiales · Official downloads
 
-**🇪🇸 Español** · [🇬🇧 English](#-english)
+**Español** · [English](#english)
 
 VATT Wallet es una billetera **sin custodia**: tus claves y tu frase de 12 palabras se crean y se guardan solo en tu equipo. Esta es la **única página oficial** para descargar los instaladores.
 
@@ -63,7 +63,7 @@ Tú eres el único y absoluto responsable de tus activos digitales. Si pierdes, 
 
 ---
 
-## 🇬🇧 English
+## English
 
 VATT Wallet is a **non-custodial** wallet: your keys and your 12-word phrase are created and stored only on your device. This is the **only official page** to download the installers.
 
