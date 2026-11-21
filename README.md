@@ -6,7 +6,16 @@ VATT Wallet es una billetera **sin custodia**: tus claves y tu frase de 12 palab
 
 ## ⬇️ Descargar
 
-**Última versión:** https://github.com/VatioVATT/vatt-wallet-releases/releases/latest
+**Descarga directa (siempre la última versión):**
+
+| Tu equipo | Toca para descargar | Requisitos |
+| --- | --- | --- |
+| Computadora con Windows | **[VATT-Wallet-Windows.exe](https://github.com/VatioVATT/vatt-wallet-releases/releases/latest/download/VATT-Wallet-Windows.exe)** | Windows 10 u 11 de 64 bits |
+| Celular Android | **[VATT-Wallet-Android.apk](https://github.com/VatioVATT/vatt-wallet-releases/releases/latest/download/VATT-Wallet-Android.apk)** | Android 7.0 o superior |
+
+Estos enlaces no cambian: cada versión nueva los actualiza sola. Son el mismo archivo que `VATT-Wallet-Setup-X.Y.Z.exe` y `VATT-Wallet-X.Y.Z.apk` (misma huella).
+
+**Página de la última versión (todos los archivos):** https://github.com/VatioVATT/vatt-wallet-releases/releases/latest
 
 Al abrir el enlace, baja hasta **Assets** y elige el archivo de tu equipo:
 
@@ -69,7 +78,16 @@ VATT Wallet is a **non-custodial** wallet: your keys and your 12-word phrase are
 
 ## ⬇️ Download
 
-**Latest version:** https://github.com/VatioVATT/vatt-wallet-releases/releases/latest
+**Direct download (always the latest version):**
+
+| Your device | Tap to download | Requirements |
+| --- | --- | --- |
+| Windows computer | **[VATT-Wallet-Windows.exe](https://github.com/VatioVATT/vatt-wallet-releases/releases/latest/download/VATT-Wallet-Windows.exe)** | Windows 10 or 11, 64-bit |
+| Android phone | **[VATT-Wallet-Android.apk](https://github.com/VatioVATT/vatt-wallet-releases/releases/latest/download/VATT-Wallet-Android.apk)** | Android 7.0 or later |
+
+These links never change: each new version updates them automatically. They are the same file as `VATT-Wallet-Setup-X.Y.Z.exe` and `VATT-Wallet-X.Y.Z.apk` (same fingerprint).
+
+**Latest version page (all files):** https://github.com/VatioVATT/vatt-wallet-releases/releases/latest
 
 Open the link, scroll down to **Assets** and choose the file for your device:
 
